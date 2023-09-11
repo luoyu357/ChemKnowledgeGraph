@@ -1,0 +1,218 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1002/1521-3765(20010716)7:14<3005::aid-chem3005>3.0.co;2-9",
+      "published_date": "2001-07-16T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "BQ [ a ]"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "6000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "47000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "120000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "1000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "6000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "47000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "120000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "1000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.15",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.006",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.72",
+            "type": "\u03d5"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "Cl2BQ [ e ]"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "6000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "6000",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.03",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.007",
+            "type": "\u03d5"
+          },
+          {
+            "value": "1.0",
+            "type": "\u03d5"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "CA [ g ]"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "9700",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "9700",
+                "extinction_units": "M \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "1.0",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.02",
+            "type": "\u03d5"
+          },
+          {
+            "value": "<0.01",
+            "type": "\u03d5"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "Cl2BQ [ a ]"
+        ],
+        "quantum_yields": [
+          {
+            "value": "1.0",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.11",
+            "type": "\u03d5"
+          },
+          {
+            "value": "<0.007",
+            "type": "\u03d5"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "CA [ b ]"
+        ],
+        "quantum_yields": [
+          {
+            "value": "1.0",
+            "type": "\u03d5"
+          },
+          {
+            "value": "0.10",
+            "type": "\u03d5"
+          },
+          {
+            "value": "<0.03",
+            "type": "\u03d5"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]

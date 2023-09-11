@@ -1,0 +1,387 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1016/j.ica.2006.08.026",
+      "published_date": "2007-02-15T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "DMDAP2 + b"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "33000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "15000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "33000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "15000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.60",
+            "type": "\u03a6"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "DBDAP2 + b"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "35000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "12500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "35000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "12500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.28",
+            "type": "\u03a6"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "( D0 ) 2V2 +",
+          "(D0)2V2+"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "29000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "259",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "29000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "( D1 ) 2V2 +",
+          "(D1)2V2+"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "25400",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "261",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "25400",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "DCDAP2 +",
+          "DCDAP2+"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "31500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "13800",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "31500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "13800",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.5",
+            "type": "\u03a6"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "DOV2+",
+          "DOV2 +"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "24500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "264",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "24500",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "353",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "9",
+            "type": "\u03a6",
+            "value_validation_failed": "1"
+          },
+          {
+            "value": "10\u22123",
+            "type": "\u03a6"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "DBV2+",
+          "DBV2 +"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "20000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "260",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "20000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "E-DMBPE2+",
+          "E-DMBPE2 +"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "42000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "317",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "42000",
+                "extinction_units": "L mol \u2212 1 cm \u2212 1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "365",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.015",
+            "type": "\u03a6"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "E-DBBPE2+",
+          "E-DBBPE2 +"
+        ],
+        "quantum_yields": [
+          {
+            "value": "6",
+            "type": "\u03a6",
+            "value_validation_failed": "1"
+          },
+          {
+            "value": "10",
+            "type": "\u03a6",
+            "value_validation_failed": "1"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]

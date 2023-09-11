@@ -1,0 +1,802 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1021/ol1007263",
+      "published_date": "2010-04-30T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "SOPV1a"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "403",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "2.47",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "2.47"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "467",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV1a"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "449",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.73",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "444",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.73"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "521",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "556",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.21",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV2"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "477",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "2.90",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "472",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "2.90"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "564",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "567",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.21",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV3"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "512",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.30",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "530",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.30"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "622",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "696",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.17",
+            "type": "Ered",
+            "solvent": "DMF"
+          },
+          {
+            "value": "0.12",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV4"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "548",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.37",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.37"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.23",
+            "type": "Ered",
+            "solvent": "DMF"
+          },
+          {
+            "value": "0.24",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV5"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "542",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.31",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "555",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.31"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.60",
+            "type": "Ered",
+            "solvent": "DMF"
+          },
+          {
+            "value": "0.33",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV6"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "398",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.50",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "430",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.50"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "470",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "484",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "SOPV7"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "490",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.52",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.52"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "616",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.26",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV2"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "518",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.90",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.90"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "624",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.17",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV3"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "550",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.95",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.95"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "662",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.09",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV4"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "611",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.85",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.85"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "765",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.42",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV5"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "640",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.73",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.73"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.20",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV6"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "452",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.94",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.94"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "570",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.40",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "LOPV7"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "535",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.22",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.22"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.20",
+            "type": "Ered",
+            "solvent": "DMF"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "410",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "extinction": "4.72",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "416",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "extinction": "4.72"
+              }
+            ]
+          },
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "467",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "507",
+                "units": "nm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

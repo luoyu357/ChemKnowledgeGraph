@@ -1,0 +1,921 @@
+﻿[
+  {
+    "n": {
+        "identity": 746,
+        "labels": [
+                "biblio"
+              ],
+"properties": {
+"label": "biblio",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"published_date": "2019-01-29T00:00:00",
+"doi": "10.1021/acs.joc.8b02978"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 747,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "CC1(C)c2cccc3c2[Co]2c4c1cccc4Oc1c2c(O3)ccc1"
+        ],
+"names": "CDOTA +",
+"alter_name": [
+          "CDOTA+"
+        ],
+"alter_combin": [
+          "CDOTA+ : CC1(C)c2cccc3c2[Co]2c4c1cccc4Oc1c2c(O3)ccc1"
+        ],
+"smiles_validation_failed": "1",
+"label": "CDOTA +"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 748,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.299",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 749,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "Cn1c2cccc3c2[Co]2c4c1cccc4oc1c2c(o3)ccc1"
+        ],
+"names": "ADOTA + b",
+"alter_name": [
+          "ADOTA+"
+        ],
+"alter_combin": [
+          "ADOTA+ : Cn1c2cccc3c2[Co]2c4c1cccc4oc1c2c(o3)ccc1"
+        ],
+"smiles_validation_failed": "1",
+"label": "ADOTA + b"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 750,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.814",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 751,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.559",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 752,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "Cn1c2cccc3c2[Co]2c4c1cccc4n(c1c2c(o3)ccc1)C"
+        ],
+"names": "DAOTA + b",
+"alter_name": [
+          "DAOTA+"
+        ],
+"alter_combin": [
+          "DAOTA+ : Cn1c2cccc3c2[Co]2c4c1cccc4n(c1c2c(o3)ccc1)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "DAOTA + b"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 753,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.108",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 754,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.443",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 755,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.958",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 756,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "c1cc2ccc3c4c2c(c1)c1cccc2c1[Co]4c1c(o3)cccc1o2",
+          "c1cc2ccc3c4c2c(c1)c1cccc2c1[Co]4c1c(o3)cccc1o2"
+        ],
+"names": "4 ( BDOTA + )",
+"alter_name": [
+          "4",
+          "BDOTA+"
+        ],
+"alter_combin": [
+          "4 : c1cc2ccc3c4c2c(c1)c1cccc2c1[Co]4c1c(o3)cccc1o2",
+          "BDOTA+ : c1cc2ccc3c4c2c(c1)c1cccc2c1[Co]4c1c(o3)cccc1o2"
+        ],
+"smiles_validation_failed": "1",
+"label": "4 ( BDOTA + )"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 757,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "578"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 758,
+"labels": [
+        "uvvis_spectra"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "uvvis_spectra",
+"apparatus": "PerkinElmer Lambda 1050 UV",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 759,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "595"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 760,
+"labels": [
+        "emisn_spectra"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "emisn_spectra",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 761,
+"labels": [
+        "quantum_yields"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "quantum_yields",
+"type": "Φf",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "0.78"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 762,
+"labels": [
+        "fluorescence_lifetimes"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"units": "ns",
+"label": "fluorescence_lifetimes",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "20.2"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 763,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "2.060",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 764,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.226",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 765,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–1.233",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 766,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "Cn1c2cccc3c2[Co]2c4c1cccc4n(c1c2c2c3cccc2cc1)C",
+          "CC1CC=c2c3c1ccc1c3[Co]3c4c2cccc4n(c2c3c(n1C)ccc2)C"
+        ],
+"names": "14 ( BDATA + )",
+"alter_name": [
+          "14",
+          "BDATA+"
+        ],
+"alter_combin": [
+          "14 : Cn1c2cccc3c2[Co]2c4c1cccc4n(c1c2c2c3cccc2cc1)C",
+          "BDATA+ : CC1CC=c2c3c1ccc1c3[Co]3c4c2cccc4n(c2c3c(n1C)ccc2)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "14 ( BDATA + )"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 767,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "625"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 768,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "652"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 769,
+"labels": [
+        "quantum_yields"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "quantum_yields",
+"type": "Φf",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "0.30"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 770,
+"labels": [
+        "fluorescence_lifetimes"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"units": "ns",
+"label": "fluorescence_lifetimes",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "12.2"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 771,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.215",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 772,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.874",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 773,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–1.594",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 774,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(O3)ccc1)(C)C"
+        ],
+"names": "CAOTA+",
+"alter_name": [
+          "CAOTA+"
+        ],
+"alter_combin": [
+          "CAOTA+ : CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(O3)ccc1)(C)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "CAOTA+"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 775,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(O3)ccc1)(C)C"
+        ],
+"names": "CAOTA +",
+"alter_name": [
+          "CAOTA+"
+        ],
+"alter_combin": [
+          "CAOTA+ : CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(O3)ccc1)(C)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "CAOTA +"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 776,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.723",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 777,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.652",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 778,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [],
+"names": "11-Methoxy-3,7-dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate",
+"alter_name": [],
+"smiles": "F[P-](F)(F)(F)(F)F.COC=1C2=C(C=CC1)N(C=1C=CC=C3[NH+](C4=CCC5=C(C4=C2C13)C=CC=C5)C)C",
+"alter_combin": [],
+"label": "11-Methoxy-3,7-dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 779,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "613"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 780,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "654"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 781,
+"labels": [
+        "quantum_yields"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "quantum_yields",
+"type": "Φf",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "0.35"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 782,
+"labels": [
+        "fluorescence_lifetimes"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"units": "ns",
+"label": "fluorescence_lifetimes",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "12.7"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 783,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.265",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 784,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.941",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 785,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.799",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 786,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–1.544",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 787,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [],
+"names": "Benzo[a]chromeno[2,3,4-kl]xanthenium Hexafluorophosphate",
+"alter_name": [],
+"smiles": "F[P-](F)(F)(F)(F)F.C1=C2C(=C3C4=C5C(=CC=CC5=[O+]C3=C1)OC=1C=CC=CC14)C=CC=C2",
+"alter_combin": [],
+"label": "Benzo[a]chromeno[2,3,4-kl]xanthenium Hexafluorophosphate"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 788,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "564"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 789,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "600"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 790,
+"labels": [
+        "quantum_yields"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "quantum_yields",
+"type": "Φf",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "0.18"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 791,
+"labels": [
+        "fluorescence_lifetimes"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"units": "ns",
+"label": "fluorescence_lifetimes",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "6.6"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 792,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "2.190",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 793,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.121",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 794,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [],
+"names": "3,7-Dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate",
+"alter_name": [],
+"smiles": "F[P-](F)(F)(F)(F)F.C[NH+]1C2=CCC3=C(C2=C2C4=C(C=CC=C14)N(C=1C=CC=CC12)C)C=CC=C3",
+"alter_combin": [],
+"label": "3,7-Dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 795,
+"labels": [
+        "peaks"
+      ],
+"properties": {
+"label": "peaks",
+"units": "nm",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "614"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 796,
+"labels": [
+        "quantum_yields"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"label": "quantum_yields",
+"type": "Φf",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "0.31"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 797,
+"labels": [
+        "fluorescence_lifetimes"
+      ],
+"properties": {
+"solvent": "CH2Cl2",
+"units": "ns",
+"label": "fluorescence_lifetimes",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1",
+"value": "10.2"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 798,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.287",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 799,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.782",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 800,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(N3C)ccc1)(C)C"
+        ],
+"names": "CDATA+",
+"alter_name": [
+          "CDATA+"
+        ],
+"alter_combin": [
+          "CDATA+ : CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(N3C)ccc1)(C)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "CDATA+"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 801,
+"labels": [
+        "record"
+      ],
+"properties": {
+"alter_smiles": [
+          "CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(N3C)ccc1)(C)C"
+        ],
+"names": "CDATA +",
+"alter_name": [
+          "CDATA+"
+        ],
+"alter_combin": [
+          "CDATA+ : CN1c2cccc3c2[Co]2c4c1cccc4C(c1c2c(N3C)ccc1)(C)C"
+        ],
+"smiles_validation_failed": "1",
+"label": "CDATA +"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 802,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Eox",
+"value": "1.290",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 803,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–0.871",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 804,
+"labels": [
+        "electrochemical_potentials"
+      ],
+"properties": {
+"label": "electrochemical_potentials",
+"type": "Ered",
+"value": "–1.615",
+"uuid": "638c9498-7001-42eb-ac7b-d58fb284efe1"
+      }
+    }
+  }
+]

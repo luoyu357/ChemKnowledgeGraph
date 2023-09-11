@@ -1,0 +1,300 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1021/cm200595y",
+      "published_date": "2011-07-11T00:00:00"
+    },
+    "records": [
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "HEX",
+            "peaks": [
+              {
+                "value": "398",
+                "units": "nm"
+              },
+              {
+                "value": "422",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.014",
+            "solvent": "HEX",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "400",
+                "units": "nm"
+              },
+              {
+                "value": "423.5",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.015",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "BTA",
+            "peaks": [
+              {
+                "value": "403",
+                "units": "nm"
+              },
+              {
+                "value": "425",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.015",
+            "solvent": "BTA",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "ETA",
+            "peaks": [
+              {
+                "value": "402",
+                "units": "nm"
+              },
+              {
+                "value": "425",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.015",
+            "solvent": "ETA",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "MTHF",
+            "peaks": [
+              {
+                "value": "402",
+                "units": "nm"
+              },
+              {
+                "value": "425",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.021",
+            "solvent": "MTHF",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "THF",
+            "peaks": [
+              {
+                "value": "403",
+                "units": "nm"
+              },
+              {
+                "value": "426.5",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.016",
+            "solvent": "THF",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "406",
+                "units": "nm"
+              },
+              {
+                "value": "429.5",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.016",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "DMF",
+            "peaks": [
+              {
+                "value": "406",
+                "units": "nm"
+              },
+              {
+                "value": "429",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.018",
+            "solvent": "DMF",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "ACN",
+            "peaks": [
+              {
+                "value": "404",
+                "units": "nm"
+              },
+              {
+                "value": "426",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.018",
+            "solvent": "ACN",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "EtOH",
+            "peaks": [
+              {
+                "value": "403",
+                "units": "nm"
+              },
+              {
+                "value": "425",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.023",
+            "solvent": "EtOH",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "solvent": "MeOH",
+            "peaks": [
+              {
+                "value": "405",
+                "units": "nm"
+              },
+              {
+                "value": "425",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.023",
+            "solvent": "MeOH",
+            "type": "\u03a6f"
+          }
+        ]
+      },
+      {
+        "names": [
+          "4,4\u2032-dialkylamino trans-stilbene"
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "TOL",
+            "peaks": [
+              {
+                "value": "405",
+                "units": "nm"
+              },
+              {
+                "value": "429",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.018",
+            "solvent": "TOL",
+            "type": "\u03a6f"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]

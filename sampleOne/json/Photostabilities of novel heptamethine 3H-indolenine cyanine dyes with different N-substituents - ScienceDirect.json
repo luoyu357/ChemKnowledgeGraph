@@ -1,0 +1,173 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1016/j.jphotochem.2005.11.004",
+      "published_date": "2006-07-05T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "heptamethine 3H-indolenine cyanine"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "700"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "700"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "784",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "813",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.368",
+            "units": "V",
+            "type": "Eox1"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "784",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "809",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.382",
+            "units": "V",
+            "type": "Eox1"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "785",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "807",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.411",
+            "units": "V",
+            "type": "Eox1"
+          }
+        ]
+      },
+      {
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "782",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "808",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.298",
+            "units": "V",
+            "type": "Eox1"
+          }
+        ]
+      },
+      {
+        "names": [
+          "methyl-substituted"
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "785",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "813",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.368",
+            "units": "V",
+            "type": "Eox1"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]

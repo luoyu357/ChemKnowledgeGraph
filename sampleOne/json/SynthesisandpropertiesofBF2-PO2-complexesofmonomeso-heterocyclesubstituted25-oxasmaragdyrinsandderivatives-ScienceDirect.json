@@ -1,0 +1,696 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1016/j.tet.2017.12.006",
+      "published_date": "2018-01-18T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "BF2-3"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "454",
+                "units": "nm",
+                "extinction": "5.5",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "482",
+                "units": "nm",
+                "extinction": "5.1",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "592",
+                "units": "nm",
+                "extinction": "4.0",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "631",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "655",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "717",
+                "units": "nm",
+                "extinction": "4.7",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "729",
+                "units": "nm"
+              },
+              {
+                "value": "656",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.12",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.75",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "1.17",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22120.91",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "BF2-4"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "446",
+                "units": "nm",
+                "extinction": "5.3",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "476",
+                "units": "nm",
+                "extinction": "5.0",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "590",
+                "units": "nm",
+                "extinction": "3.9",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "633",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "654",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "709",
+                "units": "nm",
+                "extinction": "4.4",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "722",
+                "units": "nm"
+              },
+              {
+                "value": "650",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.09",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.76",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "1.18",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22120.90",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "BF2-5"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "454",
+                "units": "nm",
+                "extinction": "5.6",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "593",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "633",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "656",
+                "units": "nm",
+                "extinction": "4.3",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "722",
+                "units": "nm",
+                "extinction": "4.7",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "731",
+                "units": "nm"
+              },
+              {
+                "value": "656",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.08",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.78",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "1.20",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22120.88",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "PO2-3"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "454",
+                "units": "nm",
+                "extinction": "5.6",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "490",
+                "units": "nm",
+                "extinction": "5.3",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "618",
+                "units": "nm",
+                "extinction": "4.3",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "643",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "671",
+                "units": "nm",
+                "extinction": "4.5",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "740",
+                "units": "nm"
+              },
+              {
+                "value": "655",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.15",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.50",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "0.80",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22121.20",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "PO2-4"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "456",
+                "units": "nm",
+                "extinction": "5.7",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "493",
+                "units": "nm",
+                "extinction": "5.2",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "611",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "642",
+                "units": "nm",
+                "extinction": "4.1",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "665",
+                "units": "nm",
+                "extinction": "4.4",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "736",
+                "units": "nm"
+              },
+              {
+                "value": "649",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.12",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.49",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "0.81",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22121.21",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "PO2-5"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "455",
+                "units": "nm",
+                "extinction": "5.6",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "494",
+                "units": "nm",
+                "extinction": "5.4",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "615",
+                "units": "nm",
+                "extinction": "4.4",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "644",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "674",
+                "units": "nm",
+                "extinction": "4.6",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "743",
+                "units": "nm"
+              },
+              {
+                "value": "654",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.09",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.52",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "0.83",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22121.18",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "BF2-2",
+          "BF2 - smaragdyrins28",
+          "BF2-smaragdyrins28"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "446",
+                "units": "nm",
+                "extinction": "5.4",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "475",
+                "units": "nm",
+                "extinction": "5.1",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "591",
+                "units": "nm",
+                "extinction": "4.0",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "629",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "647",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "703",
+                "units": "nm",
+                "extinction": "4.6",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "703",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.15",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.80",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "1.22",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22120.88",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "PO2-smaragdyrins29",
+          "PO2-2",
+          "PO2 - smaragdyrins29"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "448",
+                "units": "nm",
+                "extinction": "5.7",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "486",
+                "units": "nm",
+                "extinction": "5.3",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "611",
+                "units": "nm",
+                "extinction": "4.2",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "642",
+                "units": "nm",
+                "extinction": "4.1",
+                "extinction_validation_failed": "1"
+              },
+              {
+                "value": "667",
+                "units": "nm",
+                "extinction": "4.5",
+                "extinction_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "714",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.18",
+            "type": "\u03a6f"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "0.74",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "1.12",
+            "units": "V",
+            "type": "Eox"
+          },
+          {
+            "value": "\u22120.92",
+            "units": "V",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]

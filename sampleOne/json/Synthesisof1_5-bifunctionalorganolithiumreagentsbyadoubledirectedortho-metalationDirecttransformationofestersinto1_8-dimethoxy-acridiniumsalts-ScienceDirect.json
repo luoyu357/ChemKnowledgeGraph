@@ -1,0 +1,229 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1016/j.tet.2018.04.060",
+      "published_date": "2018-09-20T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "J.B"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "400",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "4a-Br \u2013",
+          "1,8-Dimethoxy-9,10-diphenylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "503"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "595"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1",
+        "smiles": "[Br-].COC1=CC=CC2=[N+](C3=CC=CC(=C3C(=C12)C1=CC=CC=C1)OC)C1=CC=CC=C1"
+      },
+      {
+        "names": [
+          "1,8-Dimethoxy-10-methyl-9-phenylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "497"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "576"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].COC1=CC=CC2=[N+](C3=CC=CC(=C3C(=C12)C1=CC=CC=C1)OC)C"
+      },
+      {
+        "names": [
+          "1,8-Dimethoxy-9-(4-methoxyphenyl)-10-methylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "494"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "567"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].COC1=CC=CC2=[N+](C3=CC=CC(=C3C(=C12)C1=CC=C(C=C1)OC)OC)C"
+      },
+      {
+        "names": [
+          "1,8-Dimethoxy-10-methyl-9-(naphthalen-1-yl)acridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "497"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "531"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].COC1=CC=CC2=[N+](C3=CC=CC(=C3C(=C12)C1=CC=CC2=CC=CC=C12)OC)C"
+      },
+      {
+        "names": [
+          "1,8-Dimethoxy-9,10-diphenylacridinium tetrafluoroborate salt",
+          "4a-BF4 \u2013"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "503"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "596"
+              }
+            ]
+          }
+        ],
+        "smiles": "F[B-](F)(F)F.COC1=CC=CC2=[N+](C3=CC=CC(=C3C(=C12)C1=CC=CC=C1)OC)C1=CC=CC=C1"
+      },
+      {
+        "names": [
+          "3-(Dimethylamino)-1,8-dimethoxy-9,10-diphenylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "501"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "584"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].CN(C=1C=C(C2=C(C3=C(C=CC=C3[N+](=C2C1)C1=CC=CC=C1)OC)C1=CC=CC=C1)OC)C"
+      },
+      {
+        "names": [
+          "3,6-Bis(dimethylamino)-1,8-dimethoxy-9,10-diphenylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "498",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "498"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "540"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].CN(C=1C=C(C2=C(C3=C(C=C(C=C3[N+](=C2C1)C1=CC=CC=C1)N(C)C)OC)C1=CC=CC=C1)OC)C"
+      },
+      {
+        "names": [
+          "9-(4-Fluorophenyl)-1,8-dimethoxy-10-methylacridinium bromide salt"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "497"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "579"
+              }
+            ]
+          }
+        ],
+        "smiles": "[Br-].FC1=CC=C(C=C1)C=1C2=C(C=CC=C2[N+](=C2C=CC=C(C12)OC)C)OC"
+      }
+    ]
+  }
+]

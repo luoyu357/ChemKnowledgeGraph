@@ -1,0 +1,377 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1021/acs.joc.8b02978",
+      "published_date": "2019-01-29T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "CDOTA +"
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "\u20130.299",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "ADOTA + b"
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.814",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.559",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "DAOTA + b"
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.108",
+            "type": "Eox"
+          },
+          {
+            "value": "1.443",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.958",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "4 ( BDOTA + )"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "apparatus": "PerkinElmer Lambda 1050 UV",
+            "peaks": [
+              {
+                "value": "578",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "595",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.78",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ],
+        "fluorescence_lifetimes": [
+          {
+            "value": "20.2",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "2.060",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.226",
+            "type": "Ered"
+          },
+          {
+            "value": "\u20131.233",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "14 ( BDATA + )"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "apparatus": "PerkinElmer Lambda 1050 UV",
+            "peaks": [
+              {
+                "value": "625",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "652",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.30",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ],
+        "fluorescence_lifetimes": [
+          {
+            "value": "12.2",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.215",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.874",
+            "type": "Ered"
+          },
+          {
+            "value": "\u20131.594",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "CAOTA+",
+          "CAOTA +"
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.723",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.652",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      },
+      {
+        "names": [
+          "11-Methoxy-3,7-dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "apparatus": "PerkinElmer Lambda 1050 UV",
+            "peaks": [
+              {
+                "value": "613",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "654",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.35",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ],
+        "fluorescence_lifetimes": [
+          {
+            "value": "12.7",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.265",
+            "type": "Eox"
+          },
+          {
+            "value": "1.941",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.799",
+            "type": "Ered"
+          },
+          {
+            "value": "\u20131.544",
+            "type": "Ered"
+          }
+        ],
+        "smiles": "F[P-](F)(F)(F)(F)F.COC=1C2=C(C=CC1)N(C=1C=CC=C3[NH+](C4=CCC5=C(C4=C2C13)C=CC=C5)C)C"
+      },
+      {
+        "names": [
+          "Benzo[a]chromeno[2,3,4-kl]xanthenium Hexafluorophosphate"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "apparatus": "PerkinElmer Lambda 1050 UV",
+            "peaks": [
+              {
+                "value": "564",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "600",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.18",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ],
+        "fluorescence_lifetimes": [
+          {
+            "value": "6.6",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "2.190",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.121",
+            "type": "Ered"
+          }
+        ],
+        "smiles": "F[P-](F)(F)(F)(F)F.C1=C2C(=C3C4=C5C(=CC=CC5=[O+]C3=C1)OC=1C=CC=CC14)C=CC=C2"
+      },
+      {
+        "names": [
+          "3,7-Dimethyl-3,7-dihydrobenzo[a]quinolino[2,3,4-kl]acridinium Hexafluorophosphate"
+        ],
+        "uvvis_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "apparatus": "PerkinElmer Lambda 1050 UV",
+            "peaks": [
+              {
+                "value": "614",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "solvent": "CH2Cl2",
+            "peaks": [
+              {
+                "value": "654",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "quantum_yields": [
+          {
+            "value": "0.31",
+            "solvent": "CH2Cl2",
+            "type": "\u03a6f"
+          }
+        ],
+        "fluorescence_lifetimes": [
+          {
+            "value": "10.2",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.287",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.782",
+            "type": "Ered"
+          }
+        ],
+        "smiles": "F[P-](F)(F)(F)(F)F.C[NH+]1C2=CCC3=C(C2=C2C4=C(C=CC=C14)N(C=1C=CC=CC12)C)C=CC=C3"
+      },
+      {
+        "names": [
+          "CDATA+",
+          "CDATA +"
+        ],
+        "electrochemical_potentials": [
+          {
+            "value": "1.290",
+            "type": "Eox"
+          },
+          {
+            "value": "\u20130.871",
+            "type": "Ered"
+          },
+          {
+            "value": "\u20131.615",
+            "type": "Ered"
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]
