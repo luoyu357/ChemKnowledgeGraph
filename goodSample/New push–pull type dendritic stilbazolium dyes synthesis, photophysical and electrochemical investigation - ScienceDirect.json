@@ -1,0 +1,194 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1016/j.dyepig.2004.02.011",
+      "published_date": "2004-11-01T00:00:00"
+    },
+    "records": [
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.09",
+            "units": "ns",
+            "solvent": "MeOH",
+            "value_validation_failed": "1"
+          },
+          {
+            "value": "0.03",
+            "units": "ns",
+            "solvent": "MeOH",
+            "value_validation_failed": "1"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.11",
+            "units": "ns",
+            "solvent": "EtOH"
+          },
+          {
+            "value": "0.05",
+            "units": "ns",
+            "solvent": "EtOH",
+            "value_validation_failed": "1"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.18",
+            "units": "ns",
+            "solvent": "Propanol"
+          },
+          {
+            "value": "0.25",
+            "units": "ns",
+            "solvent": "Propanol"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.48",
+            "units": "ns",
+            "solvent": "Octanol"
+          },
+          {
+            "value": "0.93",
+            "units": "ns",
+            "solvent": "Octanol"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.46",
+            "units": "ns",
+            "solvent": "CHCl3"
+          },
+          {
+            "value": "0.97",
+            "units": "ns",
+            "solvent": "CHCl3"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.31",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          },
+          {
+            "value": "0.55",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.04",
+            "units": "ns",
+            "solvent": "MeOH",
+            "value_validation_failed": "1"
+          },
+          {
+            "value": "0.11",
+            "units": "ns",
+            "solvent": "MeOH"
+          },
+          {
+            "value": "0.17",
+            "units": "ns",
+            "solvent": "MeOH"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.06",
+            "units": "ns",
+            "solvent": "EtOH",
+            "value_validation_failed": "1"
+          },
+          {
+            "value": "0.17",
+            "units": "ns",
+            "solvent": "EtOH"
+          },
+          {
+            "value": "0.21",
+            "units": "ns",
+            "solvent": "EtOH"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.64",
+            "units": "ns",
+            "solvent": "Octanol"
+          },
+          {
+            "value": "0.8",
+            "units": "ns",
+            "solvent": "Octanol"
+          },
+          {
+            "value": "1.24",
+            "units": "ns",
+            "solvent": "Octanol"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.64",
+            "units": "ns",
+            "solvent": "CHCl3"
+          },
+          {
+            "value": "0.92",
+            "units": "ns",
+            "solvent": "CHCl3"
+          },
+          {
+            "value": "0.84",
+            "units": "ns",
+            "solvent": "CHCl3"
+          }
+        ]
+      },
+      {
+        "fluorescence_lifetimes": [
+          {
+            "value": "0.32",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          },
+          {
+            "value": "0.74",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          },
+          {
+            "value": "0.52",
+            "units": "ns",
+            "solvent": "CH2Cl2"
+          }
+        ]
+      }
+    ]
+  }
+]

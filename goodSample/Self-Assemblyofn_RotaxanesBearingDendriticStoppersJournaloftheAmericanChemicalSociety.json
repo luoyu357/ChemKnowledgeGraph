@@ -1,0 +1,117 @@
+[
+  {
+    "biblio": {
+      "doi": "10.1021/ja962113h",
+      "published_date": "1996-12-04T00:00:00"
+    },
+    "records": [
+      {
+        "names": [
+          "[4]rotaxane"
+        ],
+        "uvvis_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "275",
+                "units": "nm",
+                "value_validation_failed": "1"
+              },
+              {
+                "value": "281",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "300",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "282",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "313",
+                "units": "nm"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "305",
+                "units": "nm"
+              }
+            ]
+          }
+        ],
+        "emisn_spectra": [
+          {
+            "peaks": [
+              {
+                "value": "275",
+                "units": "nm",
+                "value_validation_failed": "1"
+              },
+              {
+                "value": "281",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "300",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "282",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "313",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          },
+          {
+            "peaks": [
+              {
+                "value": "305",
+                "units": "nm",
+                "value_validation_failed": "1"
+              }
+            ]
+          }
+        ],
+        "smiles_validation_failed": "1"
+      }
+    ]
+  }
+]
